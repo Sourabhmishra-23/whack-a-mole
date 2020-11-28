@@ -7,6 +7,21 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+button {
+
+  border: none;
+
+  background: #3FBDF7;
+
+  color: white;
+
+  font-size: 13px;
+
+  font-weight: bold;
+
+  padding: 5px 25px;
+
+}
 
 body {
   padding: 0;
